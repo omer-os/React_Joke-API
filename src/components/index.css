@@ -1,0 +1,39 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: rgb(41, 124, 156);
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+
+.joke-btn{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.btn-sel{
+    display: flex;
+    justify-content: center;    
+}
+
+#in{
+    color: darkslateblue;
+    background-color: darkturquoise;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+    cursor: pointer;
+}.joke-btn:hover{
+    transform: scale(1.09);
+    box-shadow: 2px 2px 3px;
+}

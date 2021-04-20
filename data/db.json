@@ -1,0 +1,16 @@
+{
+    "blogs" : [
+        {
+            "title":"first blog",
+            "body":"first blogs bodyyy",
+            "author":" omar",
+            "id ":"1434"
+        },
+        {
+            "title":"second blog",
+            "body":"blog bodyyy",
+            "author":" omar chatin",
+            "id ":"2223"
+       }
+    ]
+}
